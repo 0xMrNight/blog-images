@@ -1,6 +1,6 @@
 [![CC BY 4.0][cc-badge]][cc-4.0]
 
-Copyright &copy; 2021 Siddharth Arumugam
+Copyright &copy; 2022 Siddharth Arumugam
 
 Images for my blog.
 
